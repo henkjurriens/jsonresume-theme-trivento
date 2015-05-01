@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-trivento",
+  "version": "0.1",
+  "description": "Boilerplate theme for JSON Resume",
+  "author": "Henk Jurriens",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erming/jsonresume-theme-trivento"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
